@@ -11,4 +11,4 @@ Keterbatasan anggaran dan waktu menuntut adanya daftar kurasi tempat makan yang 
 
 ---
 ## **Collaborators**
-* Arzaq Ajradika
+* Arzaq
